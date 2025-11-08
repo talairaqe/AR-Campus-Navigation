@@ -1,4 +1,6 @@
 # AR-Campus-Navigation
 This project proposes an augmented reality (AR) navigation system designed to help students and visitors find their way across university campuses. The system focuses on accessibility to essential services such as bathrooms, elevators, shelters, cafeterias, and various offices. Using the camera and sensors of the user's smartphone, the app will display visual directional cues over the physical world through AR technology.
+
 The app will offer multiple route options when available, provide turn-by-turn AR guidance using on-screen arrows or animated lines, and include a top-down map view to complement the AR experience. It is intended to be intuitive and accessible to all users, including those unfamiliar with navigation technologies. The user will be able to select a destination from a predefined list of categorized locations, and the app will provide directions using both AR overlay and textual assistance.
+
 Future development stages will include location data processing, AR anchoring and rendering, a responsive user interface, and integration with the device’s location services and compass. The app will support multiple languages and will be designed with modularity in mind to allow future adaptation to other campuses or public facilities.
